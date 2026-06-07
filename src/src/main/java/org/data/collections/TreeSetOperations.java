@@ -1,4 +1,4 @@
-package org.data.lists;
+package org.data.collections;
 import java.util.*;
 
 public class TreeSetOperations {

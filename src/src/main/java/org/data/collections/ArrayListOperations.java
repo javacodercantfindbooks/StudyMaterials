@@ -1,7 +1,6 @@
-package org.data.lists;
+package org.data.collections;
 import java.util.*;
-import java.util.function.Consumer;
-import java.util.stream.Collectors;
+
 public class ArrayListOperations {
 
     // Adds an element to the end of the list, returns the modified list.
